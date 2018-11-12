@@ -18,6 +18,7 @@ Slave端没有界面，启动后会有托盘图标
 ### 1：屏幕演示（延迟1s以内）
 
 采用 **局域网组播**+**分包传输**+**屏幕差异对比** 等技术
+![Master主界面](https://github.com/CrankZ/ScreenSharing-FileTransfer-in-LAN/blob/master/screenshot/Master%E4%B8%BB%E7%95%8C%E9%9D%A2.jpg)
 
 ### 2：屏幕监控（可同时监控4台）
 
