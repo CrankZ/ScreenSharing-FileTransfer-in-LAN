@@ -34,7 +34,7 @@ Python 3.4.3
 
 ### 4：学生签到
 
-### 5：考试功能（详见：）
+### 5：考试功能（详见：https://github.com/CrankZ/ScreenSharing-FileTransfer-in-LAN）
 
 ## 其他功能
 
