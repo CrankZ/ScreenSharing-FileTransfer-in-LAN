@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/img/boy.png</file>
+        <file>resource/img/right.png</file>
+        <file>resource/img/wrong.png</file>
+        <file>resource/qss/cm.css</file>
+        <file>resource/img/mate.jpg</file>
+    </qresource>
+    <qresource prefix="/cursor">
+        <file>resource/cursor/cursor-arrow.png</file>
+        <file>resource/cursor/cursor-ibeam.png</file>
+    </qresource>
+</RCC>

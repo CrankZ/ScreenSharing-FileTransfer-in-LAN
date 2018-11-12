@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/resource/img">
+        <file>resource/img/exam.png</file>
+        <file>resource/img/checkIn.png</file>
+        <file>resource/img/transferFile.png</file>
+        <file>resource/img/screenOn.png</file>
+        <file>resource/img/boy.png</file>
+        <file>resource/img/girl.png</file>
+        <file>resource/img/openFile.png</file>
+        <file>resource/img/stop.png</file>
+        <file>resource/img/PPTMode.png</file>
+        <file>resource/img/pptx-128.png</file>
+        <file>resource/img/addCompletion.png</file>
+        <file>resource/img/addChoice.png</file>
+        <file>resource/img/sender.png</file>
+        <file>resource/img/watchingYou.png</file>
+        <file>resource/img/selectAll.png</file>
+        <file>resource/img/arrow-up-512.png</file>
+        <file>resource/img/clapboard-512.png</file>
+        <file>resource/img/compose-512.png</file>
+        <file>resource/img/computer-512.png</file>
+        <file>resource/img/Download-Computer-512.png</file>
+        <file>resource/img/magnifyingglass-512.png</file>
+        <file>resource/img/profle-512.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>resource/psblack.css</file>
+        <file>resource/fontawesome-webfont.ttf</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,84 @@
+QPushButton {
+    font: 10pt "微软雅黑";
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+QPushButton:disabled {
+    /*background-color: #5bc0de;*/
+    background-color: #ccc;
+}
+
+QPushButton:hover {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+
+QPushButton:pressed {
+    color: #fff;
+    background-color: #286090;
+    border-color: #204d74
+}
+QLineEdit {
+    font: 10pt "微软雅黑";
+    color: #000;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+QLineEdit:disabled {
+    background-color: #ccc;
+}
+
+QLabel {
+    font: 10pt "微软雅黑";
+}
+QLabel:disabled{
+    color:#ccc;
+}
+
+
+QComboBox {
+    font: 10pt "微软雅黑";
+    color: #000;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    background-color: #fff;
+    background-clip: padding-box;
+    
+    border-radius: 4px;
+}
+
+QComboBox:disabled {
+    background-color: #ccc;
+}
+
+
+QRadioButton {
+    font: 10pt "微软雅黑";
+}
+
+QRadioButton::indicator {
+    font: 10pt "微软雅黑";
+    width: 20px;
+    height: 20px;
+}
+
+QRadioButton::indicator::unchecked {
+    image: url(:/resource/img/wrong.png);
+}
+
+QRadioButton::indicator::checked {
+    image: url(:/resource/img/right.png);
+}
